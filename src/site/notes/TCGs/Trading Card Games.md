@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tc-gs/trading-card-games/","tags":["TCGs"],"created":"2025-06-19","updated":"2025-06-21T20:07:07.818-04:00"}
+{"dg-publish":true,"permalink":"/tc-gs/trading-card-games/","tags":["TCGs"],"created":"2025-06-19","updated":"2025-07-21T22:46:11.926-04:00"}
 ---
 
 I'm a **HUGE** fan of Trading Card Games, I've been playing #TCGs for over 2 decades and have been around the block more than once. I've competed in multiple local and regional level tournaments in my younger years. 

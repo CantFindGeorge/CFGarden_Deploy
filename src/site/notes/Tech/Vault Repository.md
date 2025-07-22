@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/tech/vault-repository/","tags":["Tech"],"created":"2925-07-17","updated":"2025-07-21T22:42:05.489-04:00"}
+{"dg-publish":true,"permalink":"/tech/vault-repository/","tags":["Tech"],"created":"2925-07-17","updated":"2025-07-21T22:47:10.454-04:00"}
 ---
 
-# Purpose
+# What's This?
 I wanted to find an easy and free way to sync my Obsidian vaults across my devices. I also like that it ended up using software I'm already using for other #Projects. 
 
 > [!summary] Tech Stack

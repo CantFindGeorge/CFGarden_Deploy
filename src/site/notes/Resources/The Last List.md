@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/resources/the-last-list/","tags":["Resources"],"created":"2024-12-28","updated":"2025-07-21T22:43:30.775-04:00"}
+{"dg-publish":true,"permalink":"/resources/the-last-list/","tags":["Resources"],"created":"2024-12-28","updated":"2025-07-21T22:45:47.925-04:00"}
 ---
 
 This page is a massive list of various resources I've found useful for various projects. Almost all the resources listed are free/freemium, and any that are premium/paid only are noted.

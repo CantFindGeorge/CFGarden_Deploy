@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tc-gs/magic-the-gathering/","tags":["TCGs"],"created":"2025-06-19","updated":"2025-07-21T22:44:09.398-04:00"}
+{"dg-publish":true,"permalink":"/tc-gs/magic-the-gathering/","tags":["TCGs"],"created":"2025-06-19","updated":"2025-07-21T22:46:09.439-04:00"}
 ---
 
 # Intro
