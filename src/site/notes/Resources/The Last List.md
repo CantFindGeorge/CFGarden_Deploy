@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/resources/the-last-list/","tags":["Resources"],"created":"2024-12-28","updated":"2025-07-14T12:18:12.276-04:00"}
+{"dg-publish":true,"permalink":"/resources/the-last-list/","tags":["Resources"],"created":"2024-12-28","updated":"2025-07-21T22:43:30.775-04:00"}
 ---
 
 This page is a massive list of various resources I've found useful for various projects. Almost all the resources listed are free/freemium, and any that are premium/paid only are noted.
@@ -14,7 +14,7 @@ This page is a massive list of various resources I've found useful for various p
 - [[Resources/The Last List#Knowledge Bases 🧠\|#Knowledge Bases 🧠]]
 - [[Resources/The Last List#Programming Tools 🖥\|#Programming Tools 🖥]]
 - [[Resources/The Last List#Research Tools 🏫\|#Research Tools 🏫]]
-- [[Resources/The Last List#Video Tools\|#Video Tools]]
+- [[Resources/The Last List#Video Tools 📽\|#Video Tools 📽]]
 
 ---
 # General Tools 🧞
@@ -51,7 +51,6 @@ This page is a massive list of various resources I've found useful for various p
 
 ## Text to Speech
 - [Eleven Audio](https://elevenlabs.io/) - AI text to speech dubbing
-
 
 ---
 # Communication Tools 💬
@@ -99,7 +98,7 @@ This page is a massive list of various resources I've found useful for various p
 
 ---
 
-# Video Tools
+# Video Tools 📽
 
 - [clip.cafe](https://clip.cafe/) - find movie clips
 - [PlayPhrase](https://www.playphrase.me/#/search) - find movie clips
