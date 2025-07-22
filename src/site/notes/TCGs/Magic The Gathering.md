@@ -1,19 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/tc-gs/magic-the-gathering/","tags":["TCGs"],"created":"2025-06-19","updated":"2025-06-26T13:25:30.367-04:00"}
+{"dg-publish":true,"permalink":"/tc-gs/magic-the-gathering/","tags":["TCGs"],"created":"2025-06-19","updated":"2025-07-21T22:44:09.398-04:00"}
 ---
 
 # Intro
 You can view all of my MTG decks on my [Moxfield Profile](https://moxfield.com/users/CantFindGeorge) or you can see the other [[TCGs/Trading Card Games\|Trading Card Games]] page to see other tcgs I play.
-
----
-# Page Contents
-- [[TCGs/Magic The Gathering#Decklists\|#Decklists]]
-	- [[TCGs/Magic The Gathering#Current Rotation\|#Current Rotation]]
-	- [[TCGs/Magic The Gathering#To Build\|#To Build]]
-- [[TCGs/Magic The Gathering#Deck Building\|#Deck Building]]
-	- [[TCGs/Magic The Gathering#Packages\|#Packages]]
-	- [[TCGs/Magic The Gathering#Commander Deck Template\|#Commander Deck Template]]
-- [[TCGs/Magic The Gathering#Tools\|#Tools]]
 
 ---
 # Decklists
