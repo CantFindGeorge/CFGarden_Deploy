@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/projects/obsidian-digital-garden/","tags":["Projects"],"created":"2025-07-16","updated":"2025-07-17T13:13:38.629-04:00"}
+{"dg-publish":true,"permalink":"/projects/obsidian-digital-garden/","tags":["Projects"],"created":"2025-07-16","updated":"2025-07-21T23:20:26.730-04:00"}
 ---
 
 # About This Project
-I really wanted to make a public place where I could detail all the useful shit I know. So many times people ask me "Hey do you know XYZ" and I do but I just cant recall where the hell I saw it or what the info was. Hence the idea to make a [[Second Brain\|Second Brain]] of information I can review or refer someone else to.
+I really wanted to make a public place where I could detail all the useful shit I know. So many times people ask me "Hey do you know XYZ" and I do but I just cant recall where the hell I saw it or what the info was. Hence the idea to make a second brain of information I can review or refer someone else to.
 
 The overall setup process was really smooth and super easy. But there was a ton of research and failed attempts before I landed on using the final tech stack.
 

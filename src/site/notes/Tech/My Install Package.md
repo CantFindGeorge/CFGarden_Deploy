@@ -1,14 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/tech/my-install-package/","tags":["Tech"],"created":"2025-07-16","updated":"2025-07-21T22:47:23.906-04:00"}
+{"dg-publish":true,"permalink":"/tech/my-install-package/","tags":["Tech"],"created":"2025-07-16","updated":"2025-07-22T23:03:26.152-04:00"}
 ---
 
 # What's This?
-This is my personal list of programs I install and use on the regular. I use the Bare Essentials (in the callout below) for my laptop and the [[Tech/My Install Package#Complete List\|#Complete List]] for my home desktop.
+This is my personal list of programs I install on my windows devices. I use the Bare Essentials (in the callout below) for my laptop and the [[Tech/My Install Package#Complete List\|#Complete List]] for my home desktop.
 
 > [!info] Package Manager
 > I'm currently exploring the idea of setting up a custom package manger like [Ketarin](https://ketarin.org/) or [Choclatey](https://chocolatey.org/) for windows.
 > 
 > For the short term you can see options a few options listed in the [[Resources/The Last List#Programming Tools 🖥\|Programing section of The Last List]].
+
+---
 
 > [!tldr]- Bare Essentials
 > - Communications

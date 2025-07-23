@@ -1,9 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/about/","created":"2024-12-28","updated":"2025-06-25T23:27:23.225-04:00"}
+{"dg-publish":true,"permalink":"/about/","created":"2024-12-28","updated":"2025-07-23T13:37:32.336-04:00"}
 ---
 
-# More CFG
+# About Me
 
+
+
+# Links
+- [Linktree](https://linktr.ee/cantfindgeorge)
 
 
 ## External Sources & Lists
@@ -15,3 +19,7 @@ While I'd love to keep everything centralized in a single place, that'd be a mas
 
 
 
+
+
+- [Brand Standards](https://company-243596.frontify.com/d/q3MZuKr9pJ2F)
+- [Media Kit](https://beacons.ai/cantfindgeorge/mediakit)

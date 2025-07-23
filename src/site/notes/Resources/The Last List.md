@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/resources/the-last-list/","tags":["Resources"],"created":"2024-12-28","updated":"2025-07-21T22:45:47.925-04:00"}
+{"dg-publish":true,"permalink":"/resources/the-last-list/","tags":["Resources"],"created":"2024-12-28","updated":"2025-07-22T23:17:39.790-04:00"}
 ---
 
 This page is a massive list of various resources I've found useful for various projects. Almost all the resources listed are free/freemium, and any that are premium/paid only are noted.
@@ -81,6 +81,7 @@ This page is a massive list of various resources I've found useful for various p
 - [VoidTools](https://www.voidtools.com/) - Faster file search engine
 - [ScummVM](https://www.scummvm.org/') - Emulate old PCs for gaming
 - [Windows Remix](https://www.windowsremix.com/) - Automated program installer (better ninite)
+- [Windows 10 Tutorial Index](https://www.tenforums.com/tutorials/1977-windows-10-tutorial-index.html) - A compilation of carious tutorials for Windows 10
 ---
 # Research Tools 🏫
 - [Connected Papers](https://www.connectedpapers.com/) - 

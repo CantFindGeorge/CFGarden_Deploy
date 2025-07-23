@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/tech/vault-repository/","tags":["Tech"],"created":"2925-07-17","updated":"2025-07-21T22:47:10.454-04:00"}
+{"dg-publish":true,"permalink":"/tech/vault-repository/","tags":["Tech"],"created":"2925-07-17","updated":"2025-07-22T23:03:22.846-04:00"}
 ---
 
 # What's This?
-I wanted to find an easy and free way to sync my Obsidian vaults across my devices. I also like that it ended up using software I'm already using for other #Projects. 
+I wanted to find an easy and free way to sync my Obsidian vaults across my devices. The solution ended up utilizing tools already in use on my other #Projects. 
 
 > [!summary] Tech Stack
 > - [Obsidian](https://obsidian.md/)
@@ -23,7 +23,3 @@ From here we have a couple of options on how to sync the data with Github.
 	- You can install this plugin to obsidian that will push/pull at the press of a single button
 	- Enter your account and repo info and that's it
 	- While this is nice, I tend to push updates from my devices at different rates so I would be concerned about merge conflicts
-
----
-# Troubleshooting
-N/a

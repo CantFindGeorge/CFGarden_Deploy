@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/projects/system-reformat-checklist/","tags":["Projects","Tech"],"created":"2025-07-21","updated":"2025-07-21T22:48:31.021-04:00"}
+{"dg-publish":true,"permalink":"/projects/system-reformat-checklist/","tags":["Projects","Tech"],"created":"2025-07-21","updated":"2025-07-22T23:07:35.002-04:00"}
 ---
 
-# What's This?
+# About This Project
 Reinstalling windows on your main machine is a bitch; No two ways about it. It's even worse when you forget something have play detective and figure out where it went wrong. Hence, this list was born to maintain my personal sanity.
 
 ---
@@ -31,4 +31,13 @@ You'll need to make a bootable drive containing the [[Tech/OS Image\|OS Image]] 
 
 ---
 # Optimizing Settings
-Depending on the OS you installed there are some steps you should take on the [[Tech/First Boot Configuration\|First Boot]] of the operating system.
+Depending on the OS you installed there are some steps you should take on the first time boot of the operating system.
+- [[Tech/First Boot Config - Windows\|First Boot Config - Windows]]
+- [[Tech/First Boot Config - Batocera\|First Boot Config - Batocera]]
+
+---
+# Installing Programs
+Finally, you can use your desired [[Tech/My Install Package\|Install Package]] and configure the programs as desired. Here are a few tips to remember:
+- After logging into a service/software make sure to disable boot on startup if not needed
+
+---
